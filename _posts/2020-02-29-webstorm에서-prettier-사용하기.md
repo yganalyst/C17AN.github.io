@@ -1,7 +1,7 @@
 ---
 title:  "[정보] - WebStorm 에서 Prettier 사용하기"
 header:
-  teaser: "assets/images/webstorm_header.png"
+  teaser: "/assets/images/webstorm_header.png"
 search: true
 toc : true
 toc_label : 네비게이션
