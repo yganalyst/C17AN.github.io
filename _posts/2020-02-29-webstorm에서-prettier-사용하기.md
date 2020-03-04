@@ -1,11 +1,12 @@
 ---
 title:  "[정보] - WebStorm 에서 Prettier 사용하기"
 header:
-  teaser: assets/images/webstorm_header.png
+  teaser: "/assets/images/webstorm_header.png"
 search: true
 toc : true
 toc_label : 네비게이션
 toc_sticky : true
+related: true
 tag:
   - tool
   - tip
@@ -14,6 +15,9 @@ categories:
 excerpt: "WebStorm에서 간단하게 Prettier 사용하기"
 last_modified_at: 2020-02-29T08:06:00-05:00
 ---
+<img src = "/assets/images/webstorm_header.png"/>    
+
+
 WebStorm 에서는 기본적으로 [Shift + Alt + L] 키를 사용한 코드 정리 기능을 지원한다. 그러나 매번 저 숏컷을 입력하는 것도 번거로워 새로운 방법을 찾아본 결과, `prettier` 플러그인을 이용해 파일을 저장할 때마다 자동으로 코드 정리를 실행하는 방법을 찾을 수 있었다. 😎
 
 ## 1. Node.js, prettier 설치   
