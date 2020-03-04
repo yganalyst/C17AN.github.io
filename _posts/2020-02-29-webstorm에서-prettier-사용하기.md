@@ -1,9 +1,7 @@
 ---
 title:  "[정보] - WebStorm 에서 Prettier 사용하기"
 search: true
-toc : true
-toc_label : 네비게이션
-toc_sticky : true
+classes: wide
 tag:
   - tool
   - tip
