@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "소개"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
   - title: "카테고리"
     url: /categories/
   - title: "태그"
