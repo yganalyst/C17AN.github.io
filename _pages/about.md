@@ -18,7 +18,7 @@ feature_row2:
   - image_path: /assets/images/placeholder-1.gif
     alt: "placeholder image 2"
     title: "Development Stories"
-    excerpt: "주로 React.js, Django, React-native 를 사용한 개발 이야기를 다룹니다."
+    excerpt: "웹 개발 이야기, 주로 Javascript 와 함께하는 이야기를 다룹니다."
 feature_row3:
   - image_path: /assets/images/placeholder-2.gif
     alt: "placeholder image 3"
