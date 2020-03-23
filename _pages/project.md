@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: project
 ---
 
-💻 토이 프로젝트 제작 기록 🧾
+💻 토이 프로젝트 기록  🧾
