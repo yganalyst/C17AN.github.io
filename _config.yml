@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "custom" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
 title                    : "찬미니즘"
 title_separator          : "-"
-subtitle                 : 공대생이 사는 이야기 # site tagline that appears below site title in masthead
+subtitle                 : 소프트웨어 기록 보관소 # site tagline that appears below site title in masthead
 name                     : "Chan-Min, Kim"
 description              : "소프트웨어, 음악, 맛있는 음식을 사랑하는 공대생의 블로그"
 url                      : "https://C17AN.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "찬민"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "24살 개발자 지망생의 이야기"
+  bio              : "24살 개발자 생의 이야기"
   location         : "Seoul, Korea"
   email            : # kimchanmin1@gmail.com
   links:
