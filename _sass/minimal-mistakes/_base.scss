@@ -137,6 +137,7 @@ a {
   &:hover {
     color: $link-color-hover;
     outline: 0;
+    border : 1px solid black;
   }
 }
 
