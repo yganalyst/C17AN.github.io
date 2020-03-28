@@ -50,7 +50,7 @@ let a : number = 24;
 
 ## 2. 타입스크립트의 타입 검사
 
-**- 자바스크립트 코드 index.js**
+**- 자바스크립트 코드 (index.js)**
 {: .notice--info}
 
 ```typescript
@@ -66,7 +66,7 @@ console.log(a);
 
 ---
 
-**- 타입스크립트 코드 index.ts**
+**- 타입스크립트 코드 (index.ts)**
 {: .notice--info}
 
 ```typescript
@@ -80,7 +80,7 @@ console.log(a);
 
 ---
 
-**- 타입스크립트 코드 index.ts**
+**- index.ts**
 {: .notice--info}
 
 ```typescript
@@ -95,7 +95,7 @@ console.log(a);
 
 만약 자바스크립트를 사용할 때처럼 변수를 사용하고 싶다면, `any` 타입으로 변수를 선언해주면 된다.   
 
-**- 타입스크립트 코드 index.ts**
+**- index.ts**
 {: .notice--info}
 
 ```typescript
@@ -109,7 +109,7 @@ console.log(a);
 
 ---
 
-**- 타입스크립트 코드 index.ts**
+**- index.ts**
 {: .notice--info}
 
 ```typescript
