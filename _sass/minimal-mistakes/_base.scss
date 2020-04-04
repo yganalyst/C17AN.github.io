@@ -154,6 +154,7 @@ kbd,
 samp,
 pre {
   font-family: $monospace;
+  font-size: 0.9em;
 }
 
 pre {
@@ -167,8 +168,8 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: 0.8em;
-  background: #dcdcde;
+  font-size: 0.9em;
+  background: #f2f7f7;
   color: #d65683;
   //background: $code-background-color;
   //color: ,
