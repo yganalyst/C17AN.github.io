@@ -1,5 +1,5 @@
 ---
-title:  "[정보] - Live Server 사용하기"
+title:  "[Extension] - Live Server 사용하기"
 search: true
 toc : true
 toc_label : 네비게이션
@@ -9,9 +9,8 @@ toc_sticky : true
 tag:
   - tip
   - tool
-  - extension
 categories:
-  - Info
+  - Extension
 excerpt: "VS code의 Live Server 익스텐션 소개"
 last_modified_at: 2020-04-08T17:06:00-05:00
 ---
