@@ -1,5 +1,5 @@
 ---
-title:  "[정보] - WebStorm 에서 Prettier 사용하기"
+title:  "[Extension] - WebStorm 에서 Prettier 사용하기"
 header:
   teaser: "/assets/images/webstorm_header.png"
 search: true
