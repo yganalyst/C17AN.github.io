@@ -15,9 +15,6 @@ categories:
 excerpt: "VS code의 Live Server 익스텐션 소개"
 last_modified_at: 2020-04-08T17:06:00-05:00
 ---
-<img src = "/assets/images/header/software.png">
-
----
 
 **HTML** 문서를 만들면서 수정한 결과를 확인하려면 수정사항을 저장한 후 브라우저에서 새로고침을 해야만 한다.   
 
