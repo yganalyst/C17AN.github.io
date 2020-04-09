@@ -11,7 +11,7 @@ tag:
   - tool
   - tip
 categories:
-  - Info
+  - Extension
 excerpt: "WebStorm에서 간단하게 Prettier 사용하기"
 last_modified_at: 2020-02-29T08:06:00-05:00
 ---
