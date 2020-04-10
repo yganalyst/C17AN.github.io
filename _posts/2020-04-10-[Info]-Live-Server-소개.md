@@ -11,7 +11,7 @@ tag:
   - tool
 categories:
   - Extension
-excerpt: "VS code의 Live Server 익스텐션 소개"
+excerpt: "VS Code의 Live Server 익스텐션 소개"
 last_modified_at: 2020-04-08T17:06:00-05:00
 ---
 
