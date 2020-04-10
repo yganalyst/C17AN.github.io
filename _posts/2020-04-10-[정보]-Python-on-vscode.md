@@ -12,7 +12,7 @@ tag:
   - extension
 categories:
   - Info
-excerpt: "VS code에서 파이썬을 사용하는 방법 소개"
+excerpt: "VS Code에서 파이썬을 사용하는 방법 소개"
 last_modified_at: 2020-04-10T17:06:00-05:00
 ---
 
