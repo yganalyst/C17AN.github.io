@@ -48,7 +48,7 @@ last_modified_at: 2020-04-10T17:06:00-05:00
 
 ---
 
-python **익스텐션**을 설치했다면, 이제 VS Code 상에서 파이썬을 실행할 인터프리터를 설정할 수 있다.   
+python **익스텐션**을 설치했다면, VS Code 상에서 파이썬을 실행할 인터프리터를 설정할 수 있다.   
 **[Shift + Ctrl + P]** 키로 커맨드 목록을 띄운 뒤, **"Python : Select Interpreter"** 를 선택하자.
 
 ---
