@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "찬민"
   avatar           : "/assets/images/bio-character.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "24살 개발자 지망생의 이야기"
+  bio              : "What is Software?"
   location         : "Seoul, Korea"
   email            : # kimchanmin1@gmail.com
   links:
