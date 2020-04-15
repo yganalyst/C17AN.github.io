@@ -41,7 +41,7 @@ sidebar-contents:
       - title: "인공지능 이야기"
         url: /categories/#ai
  - title : "Algorithm"
-     children:
+   children:
       - title: "Baekjoon"
         url: /categories/#baekjoon
       - title: "SWEA"
@@ -49,7 +49,7 @@ sidebar-contents:
       - title: "프로그래머스"
         url: /categories/#programmers     
  - title : "Dev"
-     children:
+   children:
       - title: "Extension & Tools"
         url: /categories/#extension
       - title: "Info"
