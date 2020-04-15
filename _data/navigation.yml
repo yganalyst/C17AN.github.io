@@ -28,10 +28,6 @@ sidebar-contents:
         url: /categories/#node-js
       - title: "React 이야기"
         url: /categories/#react
-      - title: "Typescript 이야기"
-        url: /categories/#typescript
-      - title: "HTML & CSS 이야기"
-        url: /categories/#html
   - title: Computer Science
     children:
       - title: "네트워크 이야기"
