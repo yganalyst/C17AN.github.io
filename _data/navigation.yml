@@ -16,43 +16,29 @@ main:
   #   url: /sitemap/
   
 sidebar:
-  title: "Development"
+  title: "AI Machine Learning"
   nav: sidebar-contents
   
 sidebar-contents:
-  - title: "WEB"
+  - title: "Machine Learning"
     children:
-      - title: "Javascript 이야기"
-        url: /categories/#javascript
-      - title: "Node.js 이야기"
-        url: /categories/#node-js
-      - title: "React 이야기"
-        url: /categories/#react
-      - title: "Typescript 이야기"
-        url: /categories/#typescript
-      - title: "HTML & CSS 이야기"
-        url: /categories/#html
-  - title: "Computer Science"
+      - title: "Reinforcement Learning"
+        url: "/categories/#reinforcement-learning"
+      - title: "PaperTranslation"
+        url: "/categories/#paper-translation"
+  - title: "Statistics"
     children:
-      - title: "네트워크 이야기"
-        url: /categories/#network
-      - title: "데이터 이야기"
-        url: /categories/#data
-      - title: "인공지능 이야기"
-        url: /categories/#ai
- - title : "Algorithm"
-   children:
-      - title: "Baekjoon"
-        url: /categories/#baekjoon
-      - title: "SWEA"
-        url: /categories/#swea
-      - title: "프로그래머스"
-        url: /categories/#programmers     
- - title : "Dev"
-   children:
-      - title: "Extension & Tools"
-        url: /categories/#extension
-      - title: "Info"
-        url: /categories/#info
-      - title: "Toy Project"
-        url: /categories/#토이-프로젝트
+      - title: "Linear Algebra"
+        url: "/categories/#linear-algebra"
+      - title: "Statistics"
+        url: "/categories/#statistics"
+  - title: "IT"
+    children:
+      - title: "OS kernel"
+        url: "/categories/#os-kernel"
+      - title: "IT Infra"
+        url: "/categories/#it-infra"
+      - title: "Programming"
+        url: "/categories/#programming"
+      - title: "BookReview"
+        url: "/categories/#book-review"
