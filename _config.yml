@@ -296,12 +296,6 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "sidebar-contents"
-  - scope:
-      path: ""
-      type: sidebar-contents
-    values:
-      sidebar:
-        nav: "sidebar-contents"
 sidebar:
   - title: "Title"
     text: "Some text here."
