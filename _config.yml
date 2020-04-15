@@ -294,6 +294,8 @@ defaults:
       related: true
       toc_ads: true
       toc_sticky: true
+      sidebar:
+        nav: "sidebar-contents"
   - scope:
       path: ""
       type: sidebar-contents
