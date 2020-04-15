@@ -32,7 +32,6 @@ sidebar-contents:
         url: /categories/#typescript
       - title: "HTML & CSS 이야기"
         url: /categories/#html
-
   - title: "Computer Science"
     children:
       - title: "네트워크 이야기"
@@ -41,7 +40,6 @@ sidebar-contents:
         url: /categories/#data
       - title: "인공지능 이야기"
         url: /categories/#ai
-        
  - title : "Algorithm"
      children:
       - title: "Baekjoon"
@@ -49,8 +47,7 @@ sidebar-contents:
       - title: "SWEA"
         url: /categories/#swea
       - title: "프로그래머스"
-        url: /categories/#programmers
-        
+        url: /categories/#programmers     
  - title : "Dev"
      children:
       - title: "Extension & Tools"
