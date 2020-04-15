@@ -294,10 +294,12 @@ defaults:
       related: true
       toc_ads: true
       toc_sticky: true
-    sidebar:
-      title: "AI Machine Learning"
-      nav: sidebar-contents
-
+  - scope:
+      path: ""
+      type: sidebar-contents
+    values:
+      sidebar:
+        nav: "sidebar-contents"
 sidebar:
   - title: "Title"
     text: "Some text here."
