@@ -18,7 +18,7 @@ main:
 #sidebar:
 #  title: "Development"
 #  nav: sidebar-contents
-  
+
 sidebar-contents:
   - title: WEB
     children:
@@ -47,7 +47,7 @@ sidebar-contents:
       - title: "SWEA"
         url: /categories/#swea
       - title: "프로그래머스"
-        url: /categories/#programmers     
+        url: /categories/#programmers
  - title: Dev
    children:
       - title: "Extension & Tools"
