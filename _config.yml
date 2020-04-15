@@ -298,8 +298,8 @@ defaults:
         title: 카테고리
         nav: "sidebar-contents"
   - scope:
-      path: ""
-      type: docs
+      path: "_pages"
+      type: pages
     values:
       sidebar:
         title: 카테고리
