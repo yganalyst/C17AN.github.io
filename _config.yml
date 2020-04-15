@@ -297,6 +297,13 @@ defaults:
       sidebar:
         title: 카테고리
         nav: "sidebar-contents"
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        title: 카테고리
+        nav: "sidebar-contents"
 sidebar:
   - title: "Title"
     text: "Some text here."
