@@ -15,10 +15,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   
-sidebar:
-  title: "AI Machine Learning"
-  nav: sidebar-contents
-  
 sidebar-contents:
   - title: "Machine Learning"
     children:
