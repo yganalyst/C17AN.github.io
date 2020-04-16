@@ -29,7 +29,7 @@ sidebar-contents:
       - title: "React 이야기"
         url: /categories/#react
   - title: Computer Science
-      children:
+     children:
       - title: "네트워크 이야기"
         url: /categories/#network
       - title: "데이터 이야기"
