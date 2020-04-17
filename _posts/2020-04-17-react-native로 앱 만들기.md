@@ -28,11 +28,11 @@ last_modified_at: 2020-04-17T08:06:00-05:00
 
 ---
 
-<img src = "/assets/images/2020-04-17-react-native로 앱 만들기/install.PNG"/>
+<img src = "/assets/images/2020-04-17-react-native로 앱 만들기/install.PNG" width = "400" height = "300"/>
 
 ---
 
-안드로이스 스튜디오를 설치했다면 이제 에뮬레이터를 어느 환경에서든 사용하기 위해 시스템 환경 변수에 SDK 정보를 추가할 것이다.   
+안드로이드 스튜디오를 설치했다면 이제 에뮬레이터를 어느 환경에서든 사용하기 위해 시스템 환경 변수에 SDK 정보를 추가할 것이다.   
 
 우선 안드로이드 스튜디오 상단의 **[File] - [Settings]** 메뉴에 들어간 후, **[Appearance & Behavior] - [System Settings] - [Android SDK]** 에 진입한다.   
 
