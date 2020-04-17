@@ -11,7 +11,7 @@ tag:
   - react-native
   - react
 categories:
-  - App
+  - React-Native
 excerpt: "React Native 를 사용해 첫 번째 앱 빌드하기"
 last_modified_at: 2020-04-17T08:06:00-05:00
 ---
