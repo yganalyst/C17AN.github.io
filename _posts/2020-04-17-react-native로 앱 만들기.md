@@ -46,13 +46,14 @@ last_modified_at: 2020-04-17T08:06:00-05:00
 
 ---
 
-설치가 끝났다면 상단에서 **[Tools] - [AVD Manager]** 를 선택한 후, **[Create Virtual Device]** 를 눌러 원하는 가상 기기를 생성한다.   
+설치가 끝났다면 상단에서 **[Tools] - [AVD Manager]** 를 선택한 후 **[Create Virtual Device]** 를 눌러 원하는 가상 기기를 생성한다.   
 
 ---
 
 <img src = "/assets/images/2020-04-17-react-native로 앱 만들기/AVD.PNG"/>
 
 ---
+
 사진은 9.0버전의 OS를 탑재한 픽셀 3을 가상으로 생성한 모습인데, 이 과정이 어려우면 [**안드로이드 공식 문서**](https://developer.android.com/studio/run/managing-avds?utm_source=android-studio) 를 참조하는 것도 좋다.
 
 <img src = "/assets/images/2020-04-17-react-native로 앱 만들기/device.PNG"/>
