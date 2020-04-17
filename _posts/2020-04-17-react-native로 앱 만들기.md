@@ -70,7 +70,7 @@ last_modified_at: 2020-04-17T08:06:00-05:00
 
 ---
 
-<img src = "/assets/images/2020-04-17-react-native로 앱 만들기/환경 변수.PNG"/>
+<img src = "/assets/images/2020-04-17-react-native로 앱 만들기/환경 변수.PNG" width = "400" height = "300"/>
 
 ---
 
