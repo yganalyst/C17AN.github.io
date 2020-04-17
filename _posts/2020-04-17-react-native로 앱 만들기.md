@@ -12,11 +12,11 @@ tag:
   - react
 categories:
   - App
-excerpt: "React Native 로 첫 번째 앱 빌드하기"
+excerpt: "React Native 를 사용해 첫 번째 앱 빌드하기"
 last_modified_at: 2020-04-17T08:06:00-05:00
 ---
 
-내가 생각할 때 리액트의 가장 큰 장점 중 하나는 바로 유사한 문법의 리액트 네이티브를 사용해 앱을 만들 수 있다는 건데, 한번 리액트 네이티브를 통해 앱을 빌드해보자. 😄   
+리액트의 가장 큰 장점 중 하나는 바로 유사한 문법의 리액트 네이티브를 사용해 앱을 만들 수 있다는 건데, 한번 리액트 네이티브를 통해 앱을 빌드해보자. 😄   
 
 ---
 
@@ -34,15 +34,17 @@ last_modified_at: 2020-04-17T08:06:00-05:00
 
 ---
 
-<img src = "/assets/images/2020-04-17-react-native로 앱 만들기/settings.PNG"/>
-
----
-
 * **Android SDK Build-Tools 30-rc2**
 * **Android Emulator**
 * **Android SDK Platform-Tools**
 * **Android SDK Tools**
 * **Intel x86 Emulator Accelerator (HAXM installer)**
+
+---
+
+<img src = "/assets/images/2020-04-17-react-native로 앱 만들기/settings.PNG"/>
+
+---
 
 설치가 끝났다면 상단에서 **[Tools] - [AVD Manager]** 를 선택한 후, **[Create Virtual Device]** 를 눌러 원하는 가상 기기를 생성한다.   
 
@@ -83,9 +85,7 @@ last_modified_at: 2020-04-17T08:06:00-05:00
 
 터미널에 ```npx create-react-app init "프로젝트명"``` 을 입력하면 프로젝트 이름으로 된 폴더가 생성되고 그 안에 리액트 네이티브 프로젝트가 초기화된다.   
 
----
-
-그 후, ```npx react-native run-android``` 명령을 터미널에 입력하면 첫 번째 리액트 네이티브 프로젝트가 에뮬레이터 위에서 실행된다.    
+이후 ```npx react-native run-android``` 명령을 터미널에 입력하면 첫 번째 리액트 네이티브 프로젝트가 에뮬레이터 위에서 실행된다.    
 
 ---
 
