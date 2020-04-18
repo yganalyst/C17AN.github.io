@@ -53,7 +53,7 @@ const App = () => {
 처음 디자인을 꾸밀 때 당황했던 부분으로, 리액트 네이티브는 CSS가 아닌 CSS를 적당히 구현한 자체적인 **StyleSheet** 컴포넌트를 제공한다.
 
 그런데 태그명이 CSS와는 다른 부분이 일부 있다.   
-예를 들면 justify-content 처럼 `-` 기호가 들어가는 태그를 모두 **카멜 표기법** 으로 바꾸어 justifyContent 와 같이 사용한다.   
+예를 들면 **justify-content** 처럼 `-` 기호가 들어가는 태그를 모두 **카멜 표기법** 으로 바꾸어 **justifyContent** 와 같이 사용한다.   
 
 태그명뿐만 아니라 **flex-direction** 의 기본 설정 역시 다른데, 웹에서는 디폴트 옵션으로 **flex-direction** 이 가로 방향인 'row' 를 가리켰지만 리액트 네이티브에서는 flexDirection 옵션이 기본적으로 세로 방향인 'Column' 을 가리킨다.
 
@@ -64,7 +64,7 @@ const App = () => {
 
 ---
 
-<img src = "/assets/images/2020-04-19-react-native-기초-정리-1/column.PNG" width = 300>
+<img src = "/assets/images/2020-04-19-react-native-기초-정리-1/column.PNG" width = "300">
 
 ---
 
@@ -74,10 +74,10 @@ const App = () => {
 
 ---
 
-**- ☝ 키보드가 올라오면 로그인 폼도 함께 올라가는 모습**
+**👆 키보드가 올라오면 로그인 폼도 함께 올라가는 모습**
 {: .notice--info}
 
-<img src = "/assets/images/2020-04-19-react-native-기초-정리-1/resize.gif" width = 500>
+<img src = "/assets/images/2020-04-19-react-native-기초-정리-1/resize.gif" width = "500">
 
 ---
 
@@ -89,13 +89,13 @@ const App = () => {
 
 ---
 
-여기서 "adjustResize" 값을 "adjustNothing" 으로 변경하면 키보드가 나타나도 뷰의 형상에는 영향을 미치지 않는 원하던 결과를 얻을 수 있다.
+여기서 **"adjustResize"** 값을 **"adjustNothing"** 으로 변경하면 키보드가 나타나도 뷰의 형상에는 영향을 미치지 않는 원하던 결과를 얻을 수 있다.
 
 ---
 
-**- ✌ 키보드가 올라와도 뷰의 형상이 유지되는 모습**
+**✌ 키보드가 올라와도 뷰의 형상이 유지되는 모습**
 {: .notice--info}
 
-<img src = "/assets/images/2020-04-19-react-native-기초-정리-1/nothing.gif" width = 500>
+<img src = "/assets/images/2020-04-19-react-native-기초-정리-1/nothing.gif" width = "500">
 
 ---
