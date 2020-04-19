@@ -28,6 +28,14 @@ sidebar-contents:
         url: /categories/#node-js
       - title: "React 이야기"
         url: /categories/#react
+   - title: APP
+    children:
+      - title: "React-Native 이야기"
+        url: /categories/#React-Native
+      - title: "Kotlin 이야기"
+        url: /categories/#Kotlin
+      - title: "Java 이야기"
+        url: /categories/#Java
   - title: Computer Science
     children:
       - title: "네트워크 이야기"
