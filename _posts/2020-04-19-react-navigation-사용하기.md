@@ -1,5 +1,5 @@
 ---
-title:  "[React] - React Navigation 사용하기"
+title:  "[RN] - React Navigation 사용하기"
 search: true
 toc : true
 toc_label : 네비게이션
