@@ -30,7 +30,7 @@ last_modified_at: 2020-04-19T08:06:00-05:00
 
 ---
 
-```javascript
+```react
 import React from 'react';
 import {Text, View} from 'react-native';
 const App = () => {
