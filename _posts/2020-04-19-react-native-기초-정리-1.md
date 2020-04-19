@@ -1,5 +1,5 @@
 ---
-title:  "[React] - React Native 기초 - 1편"
+title:  "[RN] - React Native 기초 - 1편"
 search: true
 toc : true
 toc_label : 네비게이션
