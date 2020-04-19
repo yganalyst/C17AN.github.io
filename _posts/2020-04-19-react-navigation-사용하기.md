@@ -55,6 +55,23 @@ npm install react-native-reanimated react-native-gesture-handler react-native-sc
 
 설치한 의존성 파일들 중 **react-native-gesture-handler** 는 화면 스와이핑, 드래깅 등 다양한 손동작을 처리하기 위한 파일인데, 이를 사용하기 위해서 엔트리 파일 (루트 파일, Ex. App.js / Index.js) 가장 위에 **import 'react-native-gesture-handler';** 구문을 추가해 준다.
 
+---
+
+```react
+import 'react-native-gesture-handler';
+import * as React from 'react';
+
+const App = () => {
+  return (
+  // 코드
+  );
+};
+
+export default App;
+```
+
+---
+
 **- 🚨 만약 이 작업이 생략되면 앱이 빌드되지 않을 수 있음!**
 {: .notice--danger}
 
