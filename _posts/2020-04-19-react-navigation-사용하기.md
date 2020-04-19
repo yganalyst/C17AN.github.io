@@ -11,7 +11,7 @@ tag:
   - react-native
   - react
 categories:
-  - App
+  - React-Native
 excerpt: "React Navigation 으로 라우팅 구현하기"
 last_modified_at: 2020-04-19T08:06:00-05:00
 ---
