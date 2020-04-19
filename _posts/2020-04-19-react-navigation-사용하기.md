@@ -115,7 +115,7 @@ export default App;
 
 ---
 
-```html
+```react
 <NavigationContainer>
     <Stack.Navigator>
         <Stack.Screen name="Main" component={MainPage} />
@@ -148,7 +148,7 @@ App.js 에는 이렇게 네비게이터와 네비게이팅을 진행할 스크�
 **- App.js**
 {: .notice--info}
 
-```javascript
+```react
 import * as React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
@@ -190,7 +190,7 @@ export default App;
 **- 🚨 navigation 을 props로 받되, screen에서 명시적으로 넘길 필요는 없다.**
 {: .notice--info}
 
-```javascript
+```react
 import * as React from 'react';
 import 'react-native-gesture-handler';
 import {View, Text, Button, StyleSheet} from 'react-native';
