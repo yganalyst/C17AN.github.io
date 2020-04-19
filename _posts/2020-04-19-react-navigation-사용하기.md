@@ -86,7 +86,7 @@ npm install @react-navigation/stack
 **- App.js**
 {: .notice--info}
 
-```javascript
+```react
 import * as React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
@@ -115,7 +115,7 @@ export default App;
 
 ---
 
-```javascript
+```html
 <NavigationContainer>
     <Stack.Navigator>
         <Stack.Screen name="Main" component={MainPage} />
@@ -214,6 +214,7 @@ export default MainPage;
 버튼의 onPress 이벤트에 `navigation.navigate()` 함수를 사용해 **Login** 이라는 경로로 화면 전환을 진행하는 코드다.   
 
 이 때 **Login** 은 컴포넌트의 진짜 이름이 아닌, App.js 에서 네비게이션 설정을 진행할 때 스크린의 props 로 주어진 **name** 의 값이다.   
+이제 동일한 방식으로 자유롭게 컴포넌트 사이를 오갈 수 있다!
 
 ---
 **- 🛫 버튼을 통해 컴포넌트를 오가는 모습**
