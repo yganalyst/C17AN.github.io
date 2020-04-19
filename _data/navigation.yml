@@ -28,7 +28,7 @@ sidebar-contents:
         url: /categories/#node-js
       - title: "React 이야기"
         url: /categories/#react
-   - title: APP
+  - title: APP
     children:
       - title: "React-Native 이야기"
         url: /categories/#React-Native
