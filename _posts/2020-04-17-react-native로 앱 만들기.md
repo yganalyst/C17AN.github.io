@@ -1,5 +1,5 @@
 ---
-title:  "[React] - React Native 를 이용해 앱 빌드하기"
+title:  "[RN] - React Native 를 이용해 앱 빌드하기"
 search: true
 toc : true
 toc_label : 네비게이션
