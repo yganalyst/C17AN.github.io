@@ -14,7 +14,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  
+
 #sidebar:
 #  title: "Development"
 #  nav: sidebar-contents
@@ -31,11 +31,11 @@ sidebar-contents:
   - title: APP
     children:
       - title: "React-Native 이야기"
-        url: /categories/#React-Native
+        url: /categories/#react-native
       - title: "Kotlin 이야기"
-        url: /categories/#Kotlin
+        url: /categories/#kotlin
       - title: "Java 이야기"
-        url: /categories/#Java
+        url: /categories/#java
   - title: Computer Science
     children:
       - title: "네트워크 이야기"
@@ -46,8 +46,8 @@ sidebar-contents:
         url: /categories/#ai
   - title: Algorithm
     children:
-      - title: "Baekjoon"
-        url: /categories/#baekjoon
+      - title: "BOJ"
+        url: /categories/#boj
       - title: "SWEA"
         url: /categories/#swea
       - title: "프로그래머스"
