@@ -14,7 +14,6 @@ categories:
 excerpt: "[Java] - 간단한 저장소인 SharedPreference 활용하기"
 last_modified_at: 2020-05-01T08:06:00-05:00
 ---
-
 ## 1. 🥾 SharedPreference 객체   
 
 데이터 중에 앱을 종료한 후에도 남아있어야 하되, 굳이 DB에 올릴 필요까지는 없는 것도 있을 것이다. (Ex. 🎮 싱글게임 최고기록 등?)    
