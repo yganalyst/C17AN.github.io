@@ -16,7 +16,7 @@ last_modified_at: 2020-05-01T08:06:00-05:00
 ---
 ## 1. 🥾 SharedPreference 객체   
 
-데이터 중에 앱을 종료한 후에도 남아있어야 하되, 굳이 DB에 올릴 필요까지는 없는 것도 있을 것이다. (Ex. 🎮 싱글게임 최고기록 등?)    
+데이터 중에 앱을 종료한 후에도 남아있어야 하되, 굳이 DB에 올릴 필요까지는 없는 것도 있을 것이다. (Ex. 🎮 싱글게임 최고기록 등)    
 
 **SharedPreference** 는 입력값 등 작은 데이터를 마치 캐시처럼 내부 저장소에 **xml** 파일로 저장해두었다가 사용할 수 있게 해준다.   
 
@@ -31,7 +31,7 @@ SharedPreferences 의 기본 원리는 이렇다.
 
 ---
 
-## 2. 👟 SharedPreference 객체를 사용해 값 임시 저장하기   
+## 2. 👟 SharedPreference 객체를 사용해 값 저장하기   
 
 우선 어플리케이션 생명주기에 대한 간단한 이해가 필요한데, **onCreate** 메서드와 **onDestroy** 메서드는 각각 앱이 실행될 때 / 종료될 때 실행되는 메서드이다.   
 
@@ -99,18 +99,24 @@ protected void onDestroy() {
 우선 getSharedPreferences() 함수에서는 값을 실제로 저장할 xml 파일을 불러오고 저장할 모드를 지정한다.    
 이 때, 만약 지정한 파일명을 가진 파일이 없다면 해당 파일명으로 된 xml 파일을 생성한다.
 
+---
+
+**🎳 SharedPreferences 저장 모드 설명**
+{: .notice--info}
+
 |저장 모드|설명|
 |:-:|:-:|
 |MODE_PRIVATE|현재 앱에서만 접근 가능|
 |MODE_WORLD_READABLE|다른 앱에서 읽기 가능|  
 |MODE_WORLD_WRITABLE|다른 앱에서 쓰기 가능|
 
+---
+
 예를 들어 ("file", 0) 을 매개변수로 주면 file.xml 파일을 생성해 그 안에 데이터를 저장하고, 해당 앱에서만 데이터의 접근을 허용한다.   
-그 후 SharedPreference 객체를 통해 해당 파일에 I/O를 수행한다.
 
 ---
 
-그 후 Editor 라는 생소한 객체가 등장하는데, 간단하게 작은 git 이라고 생각하면 된다.
+그 후 **Editor** 라는 생소한 객체가 등장하는데, 간단하게 작은 git 이라고 생각하면 된다.
 
 ---
 
@@ -120,7 +126,7 @@ SharedPreferences.Editor editor = sharedPreferences.edit();
 
 ---
 
-Editor 에 값을 저장하기 위해 SharedPreferences (* 실제로는 xml 파일) 객체의 메서드 중 edit() 메서드를 사용해 입력을 시작한다.   
+Editor 에 값을 저장하기 위해 SharedPreferences (* 실제로는 xml 파일) 객체의 메서드 중 **edit()** 메서드를 사용해 입력을 시작한다.   
 
 ---
 
